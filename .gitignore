@@ -1,0 +1,5 @@
+shield_env/
+.env
+local.html
+scraper.py
+.DS_Store
